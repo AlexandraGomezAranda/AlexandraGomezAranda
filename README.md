@@ -1,6 +1,9 @@
-<h1 align="center">Hola, soy Alexandra 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hola,%20soy%20Alexandra%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+Superior+en+DAM;En+pr%C3%A1cticas+en+DataControl;Aprendiendo+y+programando+cada+d%C3%ADa" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/IcVN6vSdDiwbbR0PGW/giphy.gif" width="250" alt="Perro programando" />
 </p>
 
 🙋‍♀️ Sobre mí
