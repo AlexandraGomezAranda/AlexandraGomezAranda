@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Alexandra 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Estudiante+de+2%C2%BA+DAM;En+pr%C3%A1cticas+en+DataControl;Aprendiendo+y+programando+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+Superior+en+DAM;En+pr%C3%A1cticas+en+DataControl;Aprendiendo+y+programando+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
 🙋‍♀️ Sobre mí
